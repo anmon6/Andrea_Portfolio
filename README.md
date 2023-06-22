@@ -1,5 +1,5 @@
 ## [Stroke Risk Estimator](https://github.com/anmon6/stroke_proj)
-<img src="https://github.com/anmon6/stroke_proj/blob/main/Risk_vs_Predicted_Risk.PNG" width=40% height=40%>
+![](/images/Risk_vs_Predicted_Risk.PNG)
 
 * Analyzed a dataset to determine significant predictors of stroke risk.
 * Imported stroke-related data from an Excel file using the Pandas library.
@@ -7,7 +7,7 @@
 * Generated various visualizations using the matplotlib library to illustrate the findings.
 
 ## [US Population Analysis and Visualization](https://github.com/anmon6/uspop_proj)
-<img src="https://github.com/anmon6/uspop_proj/blob/main/US_growth.PNG" width=40% height=40%>
+![](/images/US_growth.PNG)
 
 * The project utilizes the US Census Bureau data available on their website.
 * Calculated the total population of the US by aggregating individual state population data.
