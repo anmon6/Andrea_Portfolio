@@ -1,4 +1,5 @@
-## [Stroke Risk Estimator](https://github.com/anmon6/stroke_proj)
+# Projects
+### [Stroke Risk Estimator](https://github.com/anmon6/stroke_proj)
 ![](/images/Risk_vs_Predicted_Risk.PNG)
 
 * Analyzed a dataset to determine significant predictors of stroke risk.
@@ -6,7 +7,7 @@
 * Utilized multiple regression analysis to identify the statistical significance of each variable in predicting stroke risk.
 * Generated various visualizations using the matplotlib library to illustrate the findings.
 
-## [US Population Analysis and Visualization](https://github.com/anmon6/uspop_proj)
+### [US Population Analysis and Visualization](https://github.com/anmon6/uspop_proj)
 ![](/images/US_growth.PNG)
 
 * The project utilizes the US Census Bureau data available on their website.
