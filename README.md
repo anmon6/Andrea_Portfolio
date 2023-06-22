@@ -1,5 +1,5 @@
 # Andrea_Portfolio
-## [Stroke Risk Estimator]([https://github.com/anmon6/uspop_proj](https://github.com/anmon6/stroke_proj))
+## [Stroke Risk Estimator](https://github.com/anmon6/stroke_proj)
 - Analyzed a dataset to determine significant predictors of stroke risk.
 - Imported stroke-related data from an Excel file using the Pandas library.
 - Utilized multiple regression analysis to identify the statistical significance of each variable in predicting stroke risk.
