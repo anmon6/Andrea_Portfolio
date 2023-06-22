@@ -1,5 +1,5 @@
 ## [Stroke Risk Estimator](https://github.com/anmon6/stroke_proj)
-![Image](/images/Risk_vs_Predicted_Risk.PNG =250x)
+![](/images/Risk_vs_Predicted_Risk.PNG)
 
 * Analyzed a dataset to determine significant predictors of stroke risk.
 * Imported stroke-related data from an Excel file using the Pandas library.
