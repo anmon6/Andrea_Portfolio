@@ -1,4 +1,3 @@
-# Andrea Portfolio
 ## [Stroke Risk Estimator](https://github.com/anmon6/stroke_proj)
 <img src="https://github.com/anmon6/stroke_proj/blob/main/Risk_vs_Predicted_Risk.PNG" width=40% height=40%>
 
